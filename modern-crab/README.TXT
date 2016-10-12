@@ -4,9 +4,9 @@ Tell the reader (someone who does not know anything about this project)
 all he/she needs to know. The comments should usually include at least:
 ------------------------------------------------------------------------
 
-PROJECT TITLE:
+PROJECT TITLE:Cangrejo
 PURPOSE OF PROJECT:
-VERSION or DATE:
+VERSION or DATE: 11/10/2016
 HOW TO START THIS PROJECT:
-AUTHORS:
+AUTHORS:Marycruz Bustos Hdz
 USER INSTRUCTIONS:
